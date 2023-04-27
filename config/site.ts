@@ -11,8 +11,8 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "BookGPT",
-  description: "Upload a book, start asking question",
+  name: "知识库",
+  description: "Upload data, start asking question",
   mainNav: [
     {
       title: "Home",
@@ -24,7 +24,7 @@ export const siteConfig: SiteConfig = {
     },
   ],
   links: {
-    twitter: "https://twitter.com/fraserxu",
-    github: "https://github.com/fraserxu/book-gpt",
+    twitter: "",
+    github: "",
   },
 }
